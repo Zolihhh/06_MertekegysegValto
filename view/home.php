@@ -6,7 +6,7 @@
     <title>Főoldal</title>
 </head>
 <body>
-    <h1>Főoldal</h1>
+    <h1>Főoldal</h1>a
     <p><a href="<?php echo $mappa . "/valutavalto" ?>">Pénzváltó</a></p>
     <p><a href="<?php echo $mappa . "/hosszvalto" ?>">Hosszváltó</a></p>
     <p><a href="<?php echo $mappa . "/mertekegysegvalto" ?>">Mértékegységváltó</a></p>
